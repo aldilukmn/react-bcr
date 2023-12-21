@@ -5,7 +5,7 @@ function TestimonialTitle() {
   return (
     <>
       <div className="flex flex-col items-center gap-3">
-        <Title title='Testimonial' classname='text-xl font-bold'/>
+        <Title title='Testimonial' className='text-xl font-bold'/>
         <Text text='Berbagai review positif dari pelanggan kami'/>
       </div> 
     </>

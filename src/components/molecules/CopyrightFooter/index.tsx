@@ -6,7 +6,7 @@ function CopyrigthFooter() {
     <>
       <div className="flex flex-col gap-5 w-72">
         <Text text='Copyright Binar 2022'/>
-        <Img src={landingPageLogo} alt='landing-page-logo' classname=' w-32'/>
+        <Img src={landingPageLogo} alt='landing-page-logo' className=' w-32'/>
       </div>
     </>
   )

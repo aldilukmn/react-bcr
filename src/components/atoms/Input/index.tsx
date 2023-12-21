@@ -6,7 +6,7 @@ type InputProps = InputHTMLAttributes<HTMLInputElement> & {
   placeholder?: string;
   name?: string;
   onChange?: (event: React.ChangeEvent<HTMLInputElement>) => void;
-  className?: stringz
+  className?: string
 };
 
 const SignInput = forwardRef<HTMLInputElement, InputProps>(

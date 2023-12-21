@@ -1,4 +1,3 @@
-import React from 'react'
 import { Icon, Title } from '../..'
 import { SlSocialFacebook } from "react-icons/sl";
 import { CiInstagram } from "react-icons/ci";

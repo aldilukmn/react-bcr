@@ -1,4 +1,3 @@
-import React from 'react'
 import { ContentFAQ, TitleFAQ } from '../..'
 
 function FAQLanding() {

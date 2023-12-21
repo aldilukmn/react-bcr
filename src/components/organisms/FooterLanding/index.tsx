@@ -1,4 +1,3 @@
-import React from 'react'
 import { AddressLanding, CopyrigthFooter, NavFooter, SocMedFooter } from '../..'
 
 function FooterLanding() {
